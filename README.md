@@ -1,7 +1,7 @@
 # eth-yield-farming-bot-with-stablecoin-anchor
 A simple eth yield farming bot that thrives involatility
 A user made this youtube tutorial on how to set this up please be sure to give them a thumbs up
-
+https://www.youtube.com/watch?v=QajYh3PWk-0
 
 
 
